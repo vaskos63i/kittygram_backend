@@ -1,0 +1,38 @@
+id 1
+{
+    "email": "",
+    "username": "vas",
+    "id": 1
+}
+pass vasvas123
+token
+{
+    "refresh": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY3MDMyOTk3OSwianRpIjoiNmEyNmZiNGY0Y2ZhNDBiMGE5NWIwMjJjZDNjOWY4ZTAiLCJ1c2VyX2lkIjoxfQ.bw_XENhl1THr2PSnCanlX_AExEfKYIZsIKK93Vovm9c",
+    "access": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjcwMzI5OTc5LCJqdGkiOiJkNWIxZjM5NjRmM2I0ZjAxOGI0MGNkMGJiNjIyZDEyYiIsInVzZXJfaWQiOjF9.pSpzPgwH5_28pSHhoWVBiuKzyfiZ5DIO_CuyQI56A0I"
+}
+
+id 2
+{
+    "email": "",
+    "username": "vasko",
+    "id": 2
+}
+pass vaskovasko123
+token
+{
+    "refresh": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY3MDMyOTk1OSwianRpIjoiMzYyNTM2ZmRmYjdmNDY5MDhhMjgzNzg3Zjk1ZGViMjEiLCJ1c2VyX2lkIjoyfQ.wK8oJ5zGnJZttgPyJcPuKJ01DKVIMtqoM3KKlTrH-Ro",
+    "access": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjcwMzI5OTU5LCJqdGkiOiI3ODBkMjIxNzY4MGM0MmQ1OWViODEzMGY4ZTFiNWM2NiIsInVzZXJfaWQiOjJ9.DwkuziooSc2zjg2Wu0WsS2i21bRQ_SyI6D34fQpEf80"
+}
+
+id 3
+{
+    "email": "",
+    "username": "vaskos",
+    "id": 3
+}
+pass 123qweYorn
+token
+{
+    "refresh": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY3MDMyOTkyOCwianRpIjoiZGQ4Yzk3MDRiYzIwNGRiMjk5NDdhZTAxZmNmZTZiYzUiLCJ1c2VyX2lkIjozfQ.rwY1ffELjs83qvJLLj2ICesfgIOv0hV8jJGKvu-VHn8",
+    "access": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjcwMzI5OTI4LCJqdGkiOiJiYmZlOGUzYzI4MDk0NWZlYjI2ZWE1NmIzZGYxNmRkNiIsInVzZXJfaWQiOjN9.yUjuvHUC4jbI8jLbs3pDvnrtjWsHCOiwnCE2QSj9sYo"
+}

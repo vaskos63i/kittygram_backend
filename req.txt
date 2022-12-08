@@ -1,0 +1,95 @@
+{
+    "name": "Барсик",
+    "color": "White",
+    "birth_year": 2017,
+    "owner": 1,
+    "achievements": [
+        {"achievement_name": "поймал мышку"},
+        {"achievement_name": "разбил вазу"}
+    ]
+}
+
+{
+    "name": "Барсик",
+    "color": "#808080",
+    "birth_year": 2017,
+    "image": "",
+    "achievements": [
+        {"achievement_name": "поймал мышку"},
+        {"achievement_name": "разбил вазу"}
+    ]
+}
+
+
+{
+    "id": 1,
+    "name": "Барсик",
+    "color": "White",
+    "birth_year": 2017,
+    "achievements": [
+        {
+            "id": 1,
+            "achievement_name": "поймал мышку"
+        },
+        {
+            "id": 2,
+            "achievement_name": "разбил вазу"
+        }
+    ],
+    "owner": 1,
+    "age": 5
+},
+{
+    "id": 2,
+    "name": "Persik",
+    "color": "Ginger",
+    "birth_year": 2013,
+    "achievements": [
+        {
+            "id": 3,
+            "achievement_name": "погрыз провод"
+        },
+        {
+            "id": 2,
+            "achievement_name": "разбил вазу"
+        }
+    ],
+    "owner": 1,
+    "age": 9
+},
+{
+    "id": 3,
+    "name": "Черт",
+    "color": "Black",
+    "birth_year": 2014,
+    "achievements": [
+        {
+            "id": 3,
+            "achievement_name": "погрыз провод"
+        },
+        {
+            "id": 4,
+            "achievement_name": "укусил пятку"
+        }
+    ],
+    "owner": 1,
+    "age": 8
+},
+{
+    "id": 4,
+    "name": "Дымок",
+    "color": "Black",
+    "birth_year": 2014,
+    "achievements": [
+        {
+            "id": 5,
+            "achievement_name": "напал из-за угла"
+        },
+        {
+            "id": 4,
+            "achievement_name": "укусил пятку"
+        }
+    ],
+    "owner": 1,
+    "age": 8
+}
